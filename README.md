@@ -1,9 +1,58 @@
-# CalendarAIThing
-This project, for the most part, is split into two main sections/ideas.
+# AI-Powered Calendar Project
 
-First - Making an actual calendar. Something simple with all of the features you would want in a normal calendar. Events, Tasks, etc.
+This project is split into two main phases:
 
-Second - Making an AI that will, based on given tasks/assigments you give it, give the user certain times in their calendar that they should work on the given thing based on the amount of time necessary and the due date (given by the user).
-Additionally, I would also like to add some extra features like the ability for the AI to adapt to user habits (Procrastinating, working in the morning, working in the night, etc), the ability for events to directly port from Google Calendar for shared calendars, and the ability for the user to change the plans made by the AI if something sudden comes up or the just don't like the schedule.
+---
 
-I, as a very much so beginner at Website Building, App Building, and AI, will likely either cut out some functions or will take an extended time to finish. For now, my goal is to just get my foundations set by actually making the calendar, then messing around and tweaking the AI for extended periods of time until it feels good enough that I start using it in my everyday life.
+## 📅 Phase 1 – Build the Calendar UI
+
+The goal is to create a functional, web-based calendar with features you’d expect in a basic calendar app:
+- View by week/day
+- Add and view events or tasks
+- Edit or delete events
+- (Eventually) support recurring events and basic task categorization
+
+This part serves as the foundation for the next phase and also helps me build core web development skills using HTML, CSS, and JavaScript.
+
+---
+
+## 🤖 Phase 2 – Add AI-Powered Scheduling
+
+The next step is to build an AI system that:
+- Accepts tasks/assignments with due dates and estimated completion time
+- Automatically schedules them in available calendar slots
+- Adjusts plans based on user preferences and habits (e.g., late-night worker, procrastinator)
+- Lets users override AI decisions manually
+- Eventually syncs with Google Calendar (for shared events or conflicts)
+
+---
+
+## 🎯 My Current Focus
+
+I'm a beginner in:
+- Web development
+- App building
+- AI implementation
+
+So I'm taking a gradual, iterative approach:
+1. Finish the calendar UI and core features
+2. Explore and experiment with AI-based task placement
+3. Tweak, adapt, and improve until it becomes useful for me personally
+
+This is a learning-first project. I may cut features or take a long time — but the goal is to make something I actually want to use.
+
+---
+
+## 🚧 Planned Features (Eventually)
+
+- AI scheduling with habit adaptation
+- Google Calendar sync
+- Manual override of AI-scheduled tasks
+- Persistent task storage
+- Responsive design for mobile use
+
+---
+
+## 📌 Status
+
+**Currently working on:** Basic calendar layout and event input
